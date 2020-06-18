@@ -42,6 +42,30 @@ license: MIT
 
 <https://github.com/projectstorm/react-diagrams>
 
+## vis 
+
+license: Apache 2 license , MIT 
+
+<https://github.com/visjs/vis-network>
+
+<https://github.com/visjs>
+
+## onos gui2
+
+license: Apache 2 license
+
+<https://github.com/opennetworkinglab/onos>
+
+<https://wiki.onosproject.org/display/ONOS/Customizing+and+Extending+the+ONOS+GUI>
+
+<https://wiki.onosproject.org/display/ONOS/Appendix+I+-+GUI2+Development>
+
+<https://github.com/opennetworkinglab/onos/tree/master/web/gui2>
+
+<https://wiki.onosproject.org/display/ONOS/Web+UI+Tutorial+-+Creating+a+Topology+Overlay>
+
+<http://sdnhub.org/tutorials/onos/>
+
 ## Others
 
 gojs (not free license)
