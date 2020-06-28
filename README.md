@@ -12,6 +12,8 @@ license: EPL 1.0
 
 <https://github.com/NeXt-UI>
 
+[Read More](./nextui-notes.md)
+
 ## draw2d
 
 license: MIT
