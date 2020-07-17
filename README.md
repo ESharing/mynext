@@ -1,5 +1,23 @@
 # Javascript for network topology
 
+## Requirement and supporting map 
+
+1. large Network： For large network which can display up to 2000 nodes on a 1920x1080 screen
+2. Support subnet: node set, physical concept that one node is only in one subnet
+3. Support group: node group, logical concept that one node can be managed in multiple group
+4. vNode and Physical Node 
+5. vertical layer for core/aggregation/access
+6. slicing network, relation between vNet and physical net 
+
+Requirement|NextUI|VIS
+---|:--:|---:
+LargeNetwork|N|Y
+Subnet|Y|Y
+Group|Y|N
+vNode|N|N
+VerticalLayer|N|N
+SlicingNet|N|N
+
 ## 20 JS lib referred url
 
 <https://modeling-languages.com/javascript-drawing-libraries-diagrams/>
@@ -56,7 +74,7 @@ license: Apache 2 license , MIT
 
 <https://github.com/visjs>
 
-Special for large network topology. 
+Special for large network topology. But no group like nextui. Cluster node like the clo
 
 ## onos gui2
 
@@ -93,3 +111,4 @@ Advent net
 skydive
 
 <https://github.com/skydive-project/skydive>
+
