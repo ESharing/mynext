@@ -17,6 +17,12 @@ May have performance issues for large topo components, such as more than 500 hun
 
 ## Reference 
 
+github next-tutorials-master
+
+Example code: next/example
+
+next api help html doc: https://developer.cisco.com/site/neXt/document/api-reference-manual/
+
 Sample test code:  https://codepen.io/NEXTSUPPORT
 
 ### About codepen.io setting
