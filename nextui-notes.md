@@ -17,9 +17,13 @@ May have performance issues for large topo components, such as more than 500 hun
 
 ## Reference 
 
+cisco community: https://community.cisco.com/t5/custom/page/page-id/customFilteredByMultiLabel?board=j-disc-dev-net-tools&labels=next
+
 github next-tutorials-master
 
 Example code: next/example
+
+cisco site: https://developer.cisco.com/site/neXt
 
 next api help html doc: https://developer.cisco.com/site/neXt/document/api-reference-manual/
 
